@@ -45,7 +45,7 @@ export function Header() {
                <img
                 src="/ergendo_logo.png"
                 alt="Ergendo Manufacturing Facility"
-                className="w-[80%] md:w-full h-30 object-cover"
+                className="w-[50%] md:w-full h-10 md:h-30 object-cover"
               />
               {/* <h1 className="text-2xl font-bold text-primary">
                 ERGENDO
