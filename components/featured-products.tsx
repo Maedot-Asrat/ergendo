@@ -11,7 +11,7 @@ export function FeaturedProducts() {
       price: "From ETB 15,000",
       rating: 4.9,
       reviews: 124,
-      image: "/luxury-memory-foam-mattress-with-modern-bedding.png",
+      image: "/mattresses.jpeg",
       features: ["Memory Foam", "Cooling Technology", "10 Year Warranty"],
       badge: "Best Seller",
     },

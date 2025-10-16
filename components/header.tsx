@@ -47,10 +47,7 @@ export function Header() {
                 alt="Ergendo Manufacturing Facility"
                 className="w-100px md:w-full h-10 md:h-30 object-cover"
               />
-              {/* <h1 className="text-2xl font-bold text-primary">
-                ERGENDO
-                <span className="text-secondary ml-2">TRADE & INDUSTRY</span>
-              </h1> */}
+             
             </div>
           </div>
 

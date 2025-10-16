@@ -20,13 +20,10 @@ export function HeroSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-bold text-balance leading-tight text-white">
-                Quality Manufacturing
-                <span className="text-red-500 block">Excellence</span>
+               Turning EVA Plastic into Everyone's 
+                <span className="text-red-500 block">Comfort</span>
               </h1>
-              <p className="text-xl text-gray-200 text-pretty leading-relaxed">
-                Leading manufacturer of mattresses, automotive accessories, home essentials, and lifestyle products.
-                Delivering quality and innovation since 2010.
-              </p>
+              
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">

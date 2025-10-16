@@ -6,6 +6,7 @@ import { AboutSection } from "@/components/about-section"
 import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
 import { NewsSection } from "@/components/news-section"
+import { PartnersSection } from "@/components/partners-section"
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
         <FeaturedProducts />
         <AboutSection />
          <NewsSection />
+         <PartnersSection/>
         <ContactSection />
       </main>
       <Footer />
